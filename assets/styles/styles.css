@@ -1,0 +1,37 @@
+/* General styles */
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header */
+
+
+
+/* Main */
+main {
+    flex:1 0 auto;
+}
+
+
+
+
+
+
+
+/* Footer */
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding:5%;
+    color:#3a3a3a
+}
