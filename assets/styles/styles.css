@@ -6,6 +6,7 @@ body {
     flex-direction: column;
 }
 
+
 /* Header */
 
 
@@ -22,6 +23,7 @@ main {
 
 
 /* Footer */
+/* code linked to footer from love running project */
 #social-networks {
     text-align: center;
     padding: 20px 0;
