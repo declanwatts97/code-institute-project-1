@@ -28,6 +28,10 @@ footer {
 
 h2 {
     margin-bottom: 2rem;
+    margin-left:1rem;
+    color:darkseagreen
+
+    
 }
 
 
@@ -56,7 +60,10 @@ main {
     margin-top: 20px;
 }
 
-
+.btn {
+    margin:10px;
+    margin-top:10px
+}
 
 
 /* Footer */
@@ -75,14 +82,22 @@ main {
     color:#3a3a3a
 }
 
-/* Media query: tablets and larger (768px and up) */
-@media screen and (min-width:0px) {
-    max-width: 100%;
+@media screen and (min-width:454px) {
+    #properties-1 {
+    margin-left: 5% ;
+    }
+
+    #properties-2 {
+        margin-left: 5%;
+    }
 }
 
+@media screen and (min-width:768px) {
+    #properties-1 {
+    margin-left: 5% ;
+    }
 
-/* Media query: tablets and larger (768px and up) */
-@media screen and (min-width:768px)
-
-/* large devices (laptops and desktops, 992px and up) */
-@media screen and (min-width:992px)
+    #properties-2 {
+    margin-left: 5% ;   
+    }
+}
