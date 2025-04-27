@@ -44,10 +44,13 @@ main {
     flex:1 0 auto;
 }
 
-#properties .card {
-    margin-bottom: 1.5rem;
+#head-text {
+    text-align: center;
 }
 
+.card-footer {
+    margin-top: 20px;
+}
 
 
 
@@ -67,3 +70,4 @@ main {
     padding:5%;
     color:#3a3a3a
 }
+
