@@ -26,6 +26,10 @@ footer {
     max-height: 65px;
 }
 
+h2 {
+    margin-bottom: 2rem;
+}
+
 
 /* Header */
 
@@ -40,6 +44,9 @@ main {
     flex:1 0 auto;
 }
 
+#properties .card {
+    margin-bottom: 1.5rem;
+}
 
 
 
