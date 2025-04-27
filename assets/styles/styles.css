@@ -1,21 +1,38 @@
+
+/* Asterisk wildcard selector to override default styles added by the browser - taken from love running project*/
+* {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
 /* General styles */
 
 body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    background-color: whitesmoke;
+}
+
+footer {
+    background-color: white;
+    max-height: 65px;
 }
 
 
 /* Header */
 
+.navbar-brand {
+    color: darkseagreen;
+    font-size: 25px;
+}
 
 
 /* Main */
 main {
     flex:1 0 auto;
 }
-
 
 
 
