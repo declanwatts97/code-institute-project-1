@@ -45,7 +45,7 @@
                   <a class="nav-link btn btn-light w-100" href="contact-us.html">Contact us</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link btn btn-light w-100" data-bs-toggle="modal" data-bs-target="#sign-in" href="sign-in.html">Sign in</a>
+                  <a class="nav-link btn btn-light w-100" data-bs-toggle="modal" data-bs-target="#sign-in">Sign in</a>
                   
                 </li>
               </ul>
@@ -53,7 +53,7 @@
           </div>
         </nav>
   <!-- Bootstrap modal-->
-        <div class="modal fade" id="sign-in" tabindex="-1" aria-labelledby="modal-title" aria-hidden="true">
+        <div class="modal fade" id="sign-in" tabindex="-1" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
@@ -63,9 +63,9 @@
               <div class="modal-body">
                 <div>
                   <label for="email" class="form-label">Email address</label>
-                  <input type="email" class="form-control" id="email" placeholder="e.g. john@example.com">
+                  <input type="email" class="form-control" id="email-modal" placeholder="e.g. john@example.com">
                   <label for="password" class="form-label">Password</label>
-                  <input type="password" class="form-control" id="password"></input>
+                  <input type="password" class="form-control" id="password">
                 </div>
               </div>
               <div class="modal-footer">
@@ -87,10 +87,8 @@
                 <div class="text-center">
                     <h2> Contact Us</h2>
                 </div>
-
-
-                    </div>
                 </div>
+                
 
                 <div class="row justify-content-center my-5 mx-2">
 
@@ -102,19 +100,18 @@
                             <label for="subject" class="form-label"> Reason for Contact </label>
                             <select class="form-select " id="subject">
                             <option value="'Request a viewing for sale" selected>Request Viewing - Buy</option>
-                            <option value="'Request a viewing for rent" selected>Request Viewing - Rent</option>
-                            <option value="'Free valuation" selected>Free Valuation</option>
+                            <option value="'Request a viewing for rent">Request Viewing - Rent</option>
+                            <option value="'Free valuation">Free Valuation</option>
                             </select>
                             <label for="email" class="form-label">Email address</label>
                             <input type="email" class="form-control" id="email" placeholder="e.g. john@example.com">
                             <label for="phone-number" class="form-label">Phone number</label>
-                            <input type="text" class="form-control" id="phone-number" placeholder="+44"></input>
+                            <input type="text" class="form-control" id="phone-number" placeholder="+44">
                             <button id="btn-form" type="button" class="btn btn-primary">Submit</button>
                             <p class="contact"> An advisor will be in touch as soon as possible.</p> 
                         </form>
                     </div>
                 </div>
-            </div>
         </section>
 
 
