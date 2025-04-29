@@ -20,6 +20,9 @@ body {
     margin-bottom: 1rem;
 }
 
+main {
+    margin-top: 25px;
+}
 
 footer {
     background-color: white;
@@ -55,7 +58,11 @@ main {
 #head-text {
     text-align: center;
     margin-top: 80px;
+    p
 }
+
+
+
 
 .card-footer {
     margin-top: 20px;
