@@ -18,40 +18,64 @@
 </head>
 <body>
 <!--Header-->
-    <header>
-    <!--Navbar-->
-    <!-- Edited Bootstrap code-->
-        <nav class="navbar navbar-expand-md bg-body-tertiary fixed-top">
-            <div class="container">
-              <a class="navbar-brand" href="index.html">
-                <i class="fa-solid fa-house-chimney"></i>
-                DW Property & Lettings
-              </a>
-              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-              </button>
-              <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav ms-auto">
-                  <li class="nav-item">
-                    <a class="nav-link" href="#">Buy</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="#">Rent</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="#">Sell</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="contact-us.html">Contact us</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="sign-in.html">Sign in</a>
-                  </li>
-                </ul>
+<header>
+  <!--Navbar-->
+  <!-- Edited Bootstrap code-->
+      <nav class="navbar navbar-expand-md bg-body-tertiary fixed-top">
+          <div class="container">
+            <a class="navbar-brand" href="index.html">
+              <i class="fa-solid fa-house-chimney"></i>
+              DW Property & Lettings
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                  <a class="nav-link btn btn-light" href="#">Buy</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link btn btn-light" href="#">Rent</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link btn btn-light" href="#">Sell</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link btn btn-light w-100" href="contact-us.html">Contact us</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link btn btn-light w-100" data-bs-toggle="modal" data-bs-target="#sign-in" href="sign-in.html">Sign in</a>
+                  
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+  <!-- Bootstrap modal-->
+        <div class="modal fade" id="sign-in" tabindex="-1" aria-labelledby="modal-title" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title">Sign In</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                <div>
+                  <label for="email" class="form-label">Email address</label>
+                  <input type="email" class="form-control" id="email" placeholder="e.g. john@example.com">
+                  <label for="password" class="form-label">Password</label>
+                  <input type="password" class="form-control" id="password"></input>
+                </div>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Sign in</button>
               </div>
             </div>
-          </nav>
-    </header>
+          </div>
+        </div>
+  </header>
 
 <!--Main Content-->
     <main>
