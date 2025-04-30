@@ -37,10 +37,9 @@ h2 {
     
 }
 
-.container {
-    padding-left:;
+li {
+    list-style-type: none;
 }
-
 
 /* Header */
 
@@ -64,9 +63,6 @@ main {
     margin-top: 80px;
     p
 }
-
-
-
 
 .card-footer {
     margin-top: 20px;
@@ -105,10 +101,7 @@ main {
 
 
 
-.house-pics {
-    position: absolute;
-    margin-top: 100px;
-}
+
 
 /* Footer */
 /* code linked to footer from love running project */
