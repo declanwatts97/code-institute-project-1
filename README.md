@@ -17,7 +17,7 @@ The primary users of DW Property and Lettings are people looking to either buy o
 ## User Stories
 ## Website Visitors
 
-All user stories are linked back to the github project planning stage
+All user stories are linked back to the github project planning stage.
 
 - As a user, I require the web page to be user friendly and responsive so I can navigate the site easily and find exactly what I'm looking for. I require it to be responsive so I can view all relevant information to the potential houses I am looking at.
 - As a user, I must be able to clearly view images of potential houses, giving me an accurate representation of what they look like in person.
@@ -40,17 +40,19 @@ This site has 3 pages and a sign in modal.
 - The navbar has two active links, to the contact us page and the sign in page modal. The company name works as the link back to the homepage. In the future, the buy, rent and sell page would all be linked up.
 
 ### Home Page
-
+![css testing] (./assets/readme-images/index-image.png)
 - The homepage has 3 main sections. The introduction at the top which contains the company name, along with some buttons for user friendliness.
 - Underneath that comes the highlight properties section. These are top properties chosen by our professional team for showcase to prospective customers.
 - Further down comes the new to market area, where properties again are shown in order of which they are added to the market. In the future this would update daily with the newest properties being shown.
 - At the bottom of the page is our office locations. These are the 2 current locations of the company. In future I would use a google maps add on to show the locations.
 
 ### Contact us
+![css testing] (./assets/readme-images/contact-us-image.png)
 - The contact us page is set up for customers to query regarding house sales, and also request viewings for both purchase and let properties.
 - The option for these three scenarios are provided in the drop down box along with all the other neccessary info needed.
 
 ### Home 1
+![css testing] (./assets/readme-images/home-1-image.png)
 - This is the first showcase of a home for this page, it can be accessed by using the view property button on the homepage for any of the property cards. In future when these are all linked it would just be the corresponding property.
 - This page contains a carousel of the images of the property with a description below and sales pitch for the home. Below this is some important information regarding the property.
 
@@ -80,7 +82,34 @@ All images were sourced from rightmove, with random houses being used to protect
 
 ## Deployment
 
+### Deployment to Github Pages
+
+This site has been deployed to github pages. To view, please see below:
+
+1. View the github repository. This project is found at title (https://github.com/declanwatts97/code-institute-project-1)
+2. You can view the deployment on github pages by visiting title(https://declanwatts97.github.io/code-institute-project-1/)
+
+
 ## Testing
+### Manual Testing
+### User Stories / User Testing
+
+1. The first thing tested to ensure user stories had been followed was requiring the webpage to be responsive and user friendly. This was tested by ensuring all screen sizes (phone,tablet, desktop) were catered for. I tested this through google developer tools and also on various devices of my own. This worked as expected.
+
+2. The second thing tested was checking all images were of a required resolution to ensure the customer experience is of a high level. This was tested during the previous phase, ensuring that no image becomes pixelated during the testing on larger screens. This worked as expected.
+
+3. The third thing tested was the sign in feature. This was tested by clicking the modal on all three pages and ensuring it is working correctly. This worked as expected.
+
+4. The fourth thing tested was the contact us page. This was tested by ensuring the link to the page works and asking friends/family if all information they believe would be needed was a required field. This worked as expected.
+
+5. The fifth thing tested was to run the code through a HTML validator and amend any issues. A errors and warnings with the code came back and these were then fixed. There are now no errors with the code on any three pages. Images are below.
+![css testing] (./assets/readme-images/home-validation.png)
+![css testing] (./assets/readme-images/home-1-validation.png)
+![css testing] (./assets/readme-images/contact-us-validation.png)
+
+6. The sixth thing tested was to run the CSS through a CSS validator and amend any issues. No issues arose and it worked as expected. Images are below.
+![css testing] (./assets/readme-images/css-validation.png)
+
 
 ## Credits
 ### Content and Inspiration
