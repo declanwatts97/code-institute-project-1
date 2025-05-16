@@ -5,7 +5,7 @@ this is my first project for the code institute web development course
 The link to live project can be found here - title(https://declanwatts97.github.io/code-institute-project-1/)
 The link to github repository can be found here - title (https://github.com/declanwatts97/code-institute-project-1)
 
-##Introduction
+## Introduction
 
 Welcome to DW Property & Holdings, the North East's newest estate agent. We are looking to give you the best options of homes new to the market for both sale and rental, with our expert team also ready to assist you with selling your home. Explore our site for hand picked properties, for all of your needs.
 
