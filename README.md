@@ -40,19 +40,19 @@ This site has 3 pages and a sign in modal.
 - The navbar has two active links, to the contact us page and the sign in page modal. The company name works as the link back to the homepage. In the future, the buy, rent and sell page would all be linked up.
 
 ### Home Page
-![css testing] (../assets/readme-images/index-image.png)
+![home image](assets/readme-images/index-image.png)
 - The homepage has 3 main sections. The introduction at the top which contains the company name, along with some buttons for user friendliness.
 - Underneath that comes the highlight properties section. These are top properties chosen by our professional team for showcase to prospective customers.
 - Further down comes the new to market area, where properties again are shown in order of which they are added to the market. In the future this would update daily with the newest properties being shown.
 - At the bottom of the page is our office locations. These are the 2 current locations of the company. In future I would use a google maps add on to show the locations.
 
 ### Contact us
-![css testing] (../assets/readme-images/contact-us-image.png)
+![contact us](assets/readme-images/contact-us-image.png)
 - The contact us page is set up for customers to query regarding house sales, and also request viewings for both purchase and let properties.
 - The option for these three scenarios are provided in the drop down box along with all the other neccessary info needed.
 
 ### Home 1
-![css testing] (../assets/readme-images/home-1-image.png)
+![home 1](assets/readme-images/home-1-image.png)
 - This is the first showcase of a home for this page, it can be accessed by using the view property button on the homepage for any of the property cards. In future when these are all linked it would just be the corresponding property.
 - This page contains a carousel of the images of the property with a description below and sales pitch for the home. Below this is some important information regarding the property.
 
@@ -103,12 +103,12 @@ This site has been deployed to github pages. To view, please see below:
 4. The fourth thing tested was the contact us page. This was tested by ensuring the link to the page works and asking friends/family if all information they believe would be needed was a required field. This worked as expected.
 
 5. The fifth thing tested was to run the code through a HTML validator and amend any issues. A errors and warnings with the code came back and these were then fixed. There are now no errors with the code on any three pages. Images are below.
-![css testing] (../assets/readme-images/home-validation.png)
-![css testing] (../assets/readme-images/home-1-validation.png)
-![css testing] (../assets/readme-images/contact-us-validation.png)
+![home validation](assets/readme-images/home-validation.png)
+![property validation](assets/readme-images/property-validation.png)
+![contact us validation](assets/readme-images/contact-us-validation.png)
 
 6. The sixth thing tested was to run the CSS through a CSS validator and amend any issues. No issues arose and it worked as expected. Images are below.
-![css testing] (../assets/readme-images/css-validation.png)
+![css validation](assets/readme-images/css-validation.png)
 
 
 ## Credits
