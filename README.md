@@ -1,7 +1,7 @@
 
 # DW Property & Lettings Project 1
 
-The link to live project can be found here - title(https://declanwatts97.github.io/code-institute-project-1/)
+The link to live project can be found here - title(https://declanwatts97.github.io/code-institute-project-1/)  
 The link to github repository can be found here - title (https://github.com/declanwatts97/code-institute-project-1)
 
 ## Introduction
@@ -10,7 +10,26 @@ Welcome to DW Property & Holdings, the North East's newest estate agent. We are 
 
 ## User Experience
 
+### User Requirements
+
+The primary users of DW Property and Lettings are people looking to either buy or sell their homes. This includes a wide range of ages and backgrounds who all have one common need, to buy or sell their homes. This means that the main priorities are to show current houses on the market, show premium houses which may invoke a sale easier than some others, and to give them the option to speak to our team and arrange a valuatiom.
+
+## User Stories
+## Website Visitors
+
+All user stories are linked back to the github project planning stage
+
+- As a user, I require the web page to be user friendly and responsive so I can navigate the site easily and find exactly what I'm looking for. I require it to be responsive so I can view all relevant information to the potential houses I am looking at.
+- As a user, I must be able to clearly view images of potential houses, giving me an accurate representation of what they look like in person.
+- As a user, I require the facility to sign in to my account while viewing houses, so I can save any that I am interested in for ease of future access. Through this feature I would also set up alerts for new houses added to the market. 
+- As a user, when I have found a house I like, I must be able to easily access the contact information of the estate agents so I can arrange viewings, send enquiries or visit the business premises.
+
 ## Goals of Site
+
+- The goal of the website from a business stand point is to create an engaging and well designed site which encourages the customers to view properties giving them enough information to potentially want to come and view/create a sale.
+- The goal of the website is to provide both rental and sale properties, to cross over both sides of the market and ensure all demands are being met.
+- The goal of the website is to allow customers to log in, and save any properties which they would like to view or have viewed previously. It will make the house hunting process far easier with everything stored in one place.
+- The goal of the website is to ensure a high level of user friendliness and ease of navigation.
 
 ## Structure
 
@@ -45,7 +64,7 @@ This site has 3 pages and a sign in modal.
 
 ## Imagery
 
-All images were sourced from rightmove, with random houses being used to protect the anonymity or real users.
+All images were sourced from rightmove, with random houses being used to protect the anonymity of real users.
 
 
 ## Technologies Used
