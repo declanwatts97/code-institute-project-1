@@ -166,7 +166,7 @@ Below are the main testing points on the website:
 
 ### Testing Summary
 
-The above section detailing tests has confirmed that the website is fully operational and and user friendly, while also being responsive across devices/
+The above section detailing tests has confirmed that the website is fully operational and and user friendly, while also being responsive across devices.
 
 ### Browser Compatibility
 
