@@ -56,7 +56,6 @@ This site has 3 pages and a sign in modal.
 - This is the first showcase of a home for this page, it can be accessed by using the view property button on the homepage for any of the property cards. In future when these are all linked it would just be the corresponding property.
 - This page contains a carousel of the images of the property with a description below and sales pitch for the home. Below this is some important information regarding the property.
 
-
 ## Design
 
 ### Colour Scheme
@@ -67,7 +66,6 @@ This site has 3 pages and a sign in modal.
 ## Imagery
 
 All images were sourced from rightmove, with random houses being used to protect the anonymity of real users.
-
 
 ## Technologies Used
 
