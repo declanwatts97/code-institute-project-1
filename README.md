@@ -82,17 +82,25 @@ All images were sourced from rightmove, with random houses being used to protect
 
 ## Deployment
 
-### Deployment to Github Pages
+### Deployment to GitHub Pages
 
-This site has been deployed to github pages. To view, please see below:
+This site has been deployed to GitHub pages. To view, please see below:
 
-1. View the github repository. This project is found at title (https://github.com/declanwatts97/code-institute-project-1)
+1. View the GitHub repository. This project is found at title (https://github.com/declanwatts97/code-institute-project-1)
 2. You can view the deployment on github pages by visiting title(https://declanwatts97.github.io/code-institute-project-1/)
 
+### Deployment Procedure
+
+See below step by step instructions for how to deploy to GitHub pages:
+
+1. Navigate to the GitHub repository, the link for this project is in the section above.
+2. Scroll down to the Pages section in the left sidebar and then select.
+3. Under Brach, you need to select the main branch and save.
+4. After saving, GitHub will deploy your site. Refresh the page and you will see a link under the github pages section, linking you to your deployment.
 
 ## Testing
 ### Manual Testing
-### User Stories / User Testing
+### User Stories Testing
 
 1. The first thing tested to ensure user stories had been followed was requiring the webpage to be responsive and user friendly. This was tested by ensuring all screen sizes (phone,tablet, desktop) were catered for. I tested this through google developer tools and also on various devices of my own. This worked as expected.
 
@@ -110,6 +118,42 @@ This site has been deployed to github pages. To view, please see below:
 6. The sixth thing tested was to run the CSS through a CSS validator and amend any issues. No issues arose and it worked as expected. Images are below.
 ![css validation](assets/readme-images/css-validation.png)
 
+### User Testing
+
+Below are the main testing points on the website:
+
+1. Navbar - The navbar was tested by clicking on each navbar link and ensuring they function correctly. This test was successful as all navbar links lead to the appropriate pages.
+
+2. Modal Funftionality - The modal was tested by clicking the login link in the navbar. This test was to ensure the sign in modal opens and contains the appropriate fields for input of info, email address/password.
+
+3. View Property Button - The view property button on the cards featured on the home page were next to test. This test was to ensure they link to the correct property advert. All buttons currently lead to the same page as only one page is created at this point. This will be updated in the future when the rest of the pages have been created.
+
+4. Contact Us - This test ensured that the contact us page works, containing the info needed for a customer to get in touch with the estate agent and book a viewing/property valuation. The form was checked to ensure the info requested was correct and the dropdown boxes work as they should. This passed the test without issue.
+
+5. Footer - The social media links in the footer were the next to be tested. Each of these were clicked on to ensure that they did indeed link to the relevant social media platform. As the company doesn't have social media pages yet, this just links to the social media website homepage. This test passed without issue.
+
+6. Webpage responsiveness - The next thing tested was the responsiveness of the webpage across various different screen sizes. This was tested in Google Chrome's developer tools, on the screen of my laptop and also my phone.
+
+ - Laptop testing - The responsiveness was tested on my laptop screen. I concluded that the website was responsive and worked on the size of the laptop screen. Screenshots are below:
+
+ ![;aptop-test-1](assets/readme-images/laptop-test1.png)
+ ![laptop-test-2](assets/readme-images/laptop-test2.png)
+ ![laptop-test-3](assets/readme-images/laptop-test3.png)
+ ![laptop-test-4](assets/readme-images/laptop-test4.png)
+
+- Tablet testing - The responsiveness for tablets was tested through Google Chrome's developer tools. I concluded that the site was responsive for tablets and looked as planned on the smaller screens. Screenshots are below:
+
+![tablet-test-1](assets/readme-images/tablet-test1.png)
+![tablet-test-2](assets/readme-images/tablet-test2.png)
+![tablet-test-3](assets/readme-images/tablet-test3.png)
+![tablet-test-4](assets/readme-images/tablet-test4.png)
+
+- Phone Testing - The responsiveness for mobile phones was tested through accessing the deployment of the webpage on my phone. I concluded that the site was responsive for phones and looked as it should. Screenshots are below:
+
+![phone-test-1](assets/readme-images/mobile-test1.png)
+![phone-test-2](assets/readme-images/mobile-test2.png)
+![phone-test-3](assets/readme-images/mobile-test3.png)
+![phone-test-4](assets/readme-images/mobile-test4.png)
 
 ## Credits
 ### Content and Inspiration
