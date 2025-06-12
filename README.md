@@ -134,7 +134,7 @@ Below are the main testing points on the website:
 
 6. Webpage responsiveness - The next thing tested was the responsiveness of the webpage across various different screen sizes. This was tested in Google Chrome's developer tools, on the screen of my laptop and also my phone.
 
- - Laptop testing - The responsiveness was tested on my laptop screen. I concluded that the website was responsive and worked on the size of the laptop screen. Screenshots are below:
+ - Laptop testing (Apple Macbook, also tested on Lenovo laptop) - The responsiveness was tested on my laptop screen. I concluded that the website was responsive and worked on the size of the laptop screen. Screenshots are below:
 
  ![;aptop-test-1](assets/readme-images/laptop-test1.png)
 
@@ -144,7 +144,7 @@ Below are the main testing points on the website:
  
  ![laptop-test-4](assets/readme-images/laptop-test4.png)
 
-- Tablet testing - The responsiveness for tablets was tested through Google Chrome's developer tools. I concluded that the site was responsive for tablets and looked as planned on the smaller screens. Screenshots are below:
+- Tablet testing (iPad Pro, also tested on Surface Pro 7 via developer tools) - The responsiveness for tablets was tested through Google Chrome's developer tools. I concluded that the site was responsive for tablets and looked as planned on the smaller screens. Screenshots are below:
 
 ![tablet-test-1](assets/readme-images/tablet-test1.png)
 
@@ -154,7 +154,7 @@ Below are the main testing points on the website:
 
 ![tablet-test-4](assets/readme-images/tablet-test4.png)
 
-- Phone Testing - The responsiveness for mobile phones was tested through accessing the deployment of the webpage on my phone. I concluded that the site was responsive for phones and looked as it should. Screenshots are below:
+- Phone Testing (Apple iPhone 15, also tested on Samsung Galaxy S8 via developer tools) - The responsiveness for mobile phones was tested through accessing the deployment of the webpage on my phone. I concluded that the site was responsive for phones and looked as it should. Screenshots are below:
 
 ![phone-test-1](assets/readme-images/mobile-test1.png)
 
@@ -163,6 +163,18 @@ Below are the main testing points on the website:
 ![phone-test-3](assets/readme-images/mobile-test3.png)
 
 ![phone-test-4](assets/readme-images/mobile-test4.png)
+
+### Testing Summary
+
+The above section detailing tests has confirmed that the website is fully operational and and user friendly, while also being responsive across devices/
+
+### Browser Compatibility
+
+This website was tested on the below browsers to ensure compatibility:
+
+- Safari
+- Google Chrome
+- Microsoft Edge
 
 ## Credits
 ### Content and Inspiration
