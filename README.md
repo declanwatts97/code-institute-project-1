@@ -137,22 +137,31 @@ Below are the main testing points on the website:
  - Laptop testing - The responsiveness was tested on my laptop screen. I concluded that the website was responsive and worked on the size of the laptop screen. Screenshots are below:
 
  ![;aptop-test-1](assets/readme-images/laptop-test1.png)
+
  ![laptop-test-2](assets/readme-images/laptop-test2.png)
+ 
  ![laptop-test-3](assets/readme-images/laptop-test3.png)
+ 
  ![laptop-test-4](assets/readme-images/laptop-test4.png)
 
 - Tablet testing - The responsiveness for tablets was tested through Google Chrome's developer tools. I concluded that the site was responsive for tablets and looked as planned on the smaller screens. Screenshots are below:
 
 ![tablet-test-1](assets/readme-images/tablet-test1.png)
+
 ![tablet-test-2](assets/readme-images/tablet-test2.png)
+
 ![tablet-test-3](assets/readme-images/tablet-test3.png)
+
 ![tablet-test-4](assets/readme-images/tablet-test4.png)
 
 - Phone Testing - The responsiveness for mobile phones was tested through accessing the deployment of the webpage on my phone. I concluded that the site was responsive for phones and looked as it should. Screenshots are below:
 
 ![phone-test-1](assets/readme-images/mobile-test1.png)
+
 ![phone-test-2](assets/readme-images/mobile-test2.png)
+
 ![phone-test-3](assets/readme-images/mobile-test3.png)
+
 ![phone-test-4](assets/readme-images/mobile-test4.png)
 
 ## Credits
